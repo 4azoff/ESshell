@@ -1,0 +1,16 @@
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\bin\Debug\ОболочкаЭС.exe
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\bin\Debug\ОболочкаЭС.pdb
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.AddFact.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.AllStructRename.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.ChooseGoal.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.ConsultResults.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.fAddRule.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.MainForm.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.Name.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.Properties.Resources.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.QuestionForm.resources
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.exe
+C:\Users\mvcha\Desktop\ycheba\4kyrs\ИССОПС\ExpertSystem\ОболочкаЭС\obj\x86\Debug\ОболочкаЭС.pdb
